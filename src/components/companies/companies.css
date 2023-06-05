@@ -1,0 +1,43 @@
+.back-button {
+  margin-left: 2rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.companies {
+  padding-top: 5rem;
+  max-height: auto;
+  min-height: auto;
+}
+
+.company-inner-div {
+  color: rgb(255, 255, 255);
+  background-color: #7d7d80;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  padding: 2rem;
+  box-shadow: 3px 3px 6px #7d7d80;
+  font-weight: bold;
+  height: 220px;
+  width: 100%;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.company-inner-div:hover {
+  height: 240px;
+  width: 100%;
+
+  font-size: 1.3rem;
+
+  color: rgba(2, 21, 46, 0.63);
+
+  background-color: #9c9c9c6e;
+  font-size: 1.2rem;
+  font-weight: bold;
+  box-shadow: 6px 6px 9px #d3d3d3;
+}

@@ -1,0 +1,80 @@
+.bg-image {
+  padding: 0;
+  margin: 0;
+  min-height: 60vh;
+  /* position: absolute; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.company-title {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  position: relative;
+
+  text-align: center;
+
+  padding: 3rem;
+  background-color: rgb(255, 255, 255);
+  /* padding-top: 12em; */
+  min-height: 20vh;
+  overflow: hidden;
+}
+
+.company-title h1 {
+  text-align: center;
+
+  font-size: 2.5rem;
+  color: rgb(27, 27, 27);
+}
+.company-title p {
+  text-align: center;
+  font-weight: 300;
+  color: black;
+}
+.logos i {
+  color: #eeeeee;
+  font-size: 1rem;
+  margin: 0.1rem;
+  padding-top: 0.5rem;
+
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.1rem;
+}
+
+.overview {
+  min-height: 40vh;
+  padding: 2rem;
+  text-align: center;
+}
+.overview h4 {
+  font-size: 1.8rem;
+  padding: 2rem;
+}
+
+.company-description {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.mission-vision {
+  background-color: #023666;
+  padding: 3rem;
+  max-height: auto;
+  min-height: auto;
+  padding-left: 6rem;
+}
+.mission-vision h4 {
+  text-align: center;
+  color: #eeeeee;
+}
+.mission-vision-inner-div {
+  color: azure;
+  border: azure solid 0.2rem;
+  margin-right: 3rem;
+  margin-bottom: 2rem;
+  text-align: justify;
+  padding: 1rem;
+  overflow: hidden;
+  height: auto;
+}

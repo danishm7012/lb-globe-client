@@ -1,0 +1,16 @@
+.body {
+  height: auto;
+  padding: 2rem;
+  background-color: rgb(255, 255, 255);
+}
+.body p {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.supplier-btn {
+  background-color: #6c398f;
+}
+.supplier-btn:hover {
+  background-color: #c11e8a;
+}
